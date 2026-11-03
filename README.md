@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My Name is Caleb Chow!
 
+## About Me
+* 1st year Science @ UBC
+* 
 <!--
 **calebchow028/calebchow028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

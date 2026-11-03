@@ -1,4 +1,4 @@
-## Hi there 👋 My Name is Caleb Chow!
+## Hi there 👋 My Name is Ho Wan Chow, but you can call me Caleb!
 
 ## About Me
 * 1st year Science @ UBC
